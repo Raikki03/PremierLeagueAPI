@@ -2,6 +2,8 @@
 
 API list for Premier League stats scraped from FbRef and the Premier League website
 
+The following scripts will scrape the code and insert them into databases, tested with MySQL
+
 Stats are scraped via Python
 
 Following statistics are scraped:
